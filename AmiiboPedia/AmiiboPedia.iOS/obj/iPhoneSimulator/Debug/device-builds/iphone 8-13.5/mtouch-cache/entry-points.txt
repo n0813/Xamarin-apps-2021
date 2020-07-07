@@ -1,0 +1,1583 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflags
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflagsCanSetHiddenFlag
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_os_log
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/System.IO.Compression.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldFontThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionNumber
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionString
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultMinTextFieldWidth
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultContentEdgeInsets
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipField
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainerScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActionSheetAction
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActionSheetController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorTransition
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertAction
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBar
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarContainerViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarNavigationController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBannerView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseTextField
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicColorScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicFontScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerPresentationController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerTransitionController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBar
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetControllerShapeThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetPresentationController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetTransitionController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButton
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBar
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarButton
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonShapeThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTitleColorAccessibilityMutator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCard
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardCollectionCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsShapeThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewFlowLayout
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewFontThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewShapeThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kDeselectedCellAccessibilityHintKey
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kSelectedCellAccessibilityHintKey
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCollectionViewCellStyleCardSectionInset
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewFlowLayout
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewLayoutAttributes
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineHeight
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineWithAvatarHeight
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultThreeLineHeight
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultTwoLineHeight
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewTextCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCornerTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedCornerTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedRectShapeGenerator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCutCornerTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogPresentationController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogTransitionController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCEdgeTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightAccessibilityMutator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightFontThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kMDCFeatureHighlightOuterHighlightAlpha
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFilledTextFieldColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlatButton
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderContainerViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingActionButtonThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButton
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonShapeThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFontScaler
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackViewColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIcons
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkGestureRecognizer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkTouchController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIntrinsicHeightTextView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillChangeFrameNotification
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillHideNotification
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillShowNotification
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCKeyboardWatcher
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCLibraryInfo
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMaskedTransitionController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMultilineTextField
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBar
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTextColorAccessibilityMutator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNumericValueLabel
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedTextFieldColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayObserver
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayWindow
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControl
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControlColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent100Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent200Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent400Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent700Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint100Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint200Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint300Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint400Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint500Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint50Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint600Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint700Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint800Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint900Name
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPalette
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPathGenerator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPillShapeGenerator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressViewColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRaisedButton
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRectangleShapeGenerator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRippleTouchController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRippleView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRoundedCornerTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSelfSizingStereoCell
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSemanticColorScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowLayer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowMetrics
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeCategory
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedShadowLayer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlantedRectShapeGenerator
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlider
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSliderColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarFontThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarManager
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageBoldAttributeName
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageDurationMax
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessage
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageAction
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCStatefulRippleView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSystemFontLoader
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBar
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarFontThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarIndicatorAttributes
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarTypographyThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarUnderlineIndicatorTemplate
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTabBarViewControllerAnimationDuration
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarViewController
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonColorThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonThemer
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextFieldTextDidSetTextNotification
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputDidToggleEnabledNotification
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextField
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputAllCharactersCounter
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputBorderView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputControllerBaseDefaultBorderRadius
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerBase
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFilled
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFullWidth
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyDefault
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyFullWidth
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlined
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlinedTextArea
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerUnderline
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputUnderlineView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbTrack
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbView
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalColorScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalPalette
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTriangleEdgeTreatment
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypography
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypographyScheme
+	/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.5/mtouch-cache/1-Link/MaterialComponents.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

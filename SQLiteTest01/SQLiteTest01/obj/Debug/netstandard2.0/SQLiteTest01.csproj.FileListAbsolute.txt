@@ -1,0 +1,15 @@
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/bin/Debug/netstandard2.0/SQLiteTest01.deps.json
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/bin/Debug/netstandard2.0/SQLiteTest01.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/bin/Debug/netstandard2.0/ref/SQLiteTest01.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/bin/Debug/netstandard2.0/SQLiteTest01.pdb
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.csprojAssemblyReference.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/ContactPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.AssemblyInfoInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.AssemblyInfo.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.csproj.CoreCompileInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/ref/SQLiteTest01.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/obj/Debug/netstandard2.0/SQLiteTest01.pdb

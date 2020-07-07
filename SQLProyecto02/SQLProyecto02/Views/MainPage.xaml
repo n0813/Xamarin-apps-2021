@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="SQLProyecto02.MainPage">
+    <StackLayout>
+
+        <Label Text="First Name:" ></Label>
+
+        <Entry  Placeholder="Fernando"
+                Text="{Binding NewFriend.FirstName}"/>
+
+
+        <Label Text="Phone:" ></Label>
+
+        <Entry  Placeholder="(871) 5652552"
+                Text="{Binding NewFriend.Phone}"
+                Keyboard="Numeric"/>
+
+        <Label Text="Email:" ></Label>
+
+        <Entry  Placeholder="correo@test.com"
+                Text="{Binding NewFriend.Email}"
+                Keyboard="Email"/>
+
+        <Button Text="Guardar"
+                Command="{Binding SaveFriendCommand}">
+
+        </Button>
+
+
+    </StackLayout>
+</ContentPage>

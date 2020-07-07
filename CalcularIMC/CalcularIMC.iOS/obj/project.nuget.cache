@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "XInn2MqeViSyXxPTgNDjtb1T2LRkuB5mXwCVHat0e2+kNtvVhs9DIS6yPaY/42+JcW7Vllal+W7WywzvLp55Pw==",
+  "success": true,
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC.iOS/CalcularIMC.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/marceline/.nuget/packages/magicgradients/1.1.0/magicgradients.1.1.0.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/skiasharp/1.68.1.1/skiasharp.1.68.1.1.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/skiasharp.views/1.68.1.1/skiasharp.views.1.68.1.1.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/skiasharp.views.forms/1.68.1.1/skiasharp.views.forms.1.68.1.1.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.forms.visual.material/4.7.0.968/xamarin.forms.visual.material.4.7.0.968.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.ios.materialcomponents/92.0.0/xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5FB6D5B7-EAFB-420B-A4AD-1A02D1A8E91C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalcularIMC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07DDB8DE-C21D-411C-B220-880075D54D76" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalcularIMC/MainPage.xaml">
+    <Files>
+      <File FileName="CalcularIMC/MainPage.xaml" Line="19" Column="30" />
+      <File FileName="CalcularIMC/App.xaml.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalcularIMC" expanded="True">
+            <Node name="CalcularIMC" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalcularIMC.Android PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

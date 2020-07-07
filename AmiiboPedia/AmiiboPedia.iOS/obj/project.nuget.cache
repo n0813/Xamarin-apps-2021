@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdOQ5q8lqd6XEFRHxDmJJpqeHqWg13RtBRs+zrcaL9kRFEqFZAxR0RQT7cJJAzaEfFV+XeLqlZ+644Ff4wwgzw==",
+  "success": true,
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia.iOS/AmiiboPedia.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/marceline/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.forms.visual.material/4.7.0.968/xamarin.forms.visual.material.4.7.0.968.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.ios.materialcomponents/92.0.0/xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

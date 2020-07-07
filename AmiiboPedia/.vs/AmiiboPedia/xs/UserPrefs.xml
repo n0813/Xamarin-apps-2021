@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3A609B6C-6F07-4FF8-BCA8-B882EF429A8E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AmiiboPedia/Models/Amiibos1.cs">
+    <Files>
+      <File FileName="AmiiboPedia/MainPage.xaml" Line="15" Column="9" />
+      <File FileName="AmiiboPedia/ViewModels/MainPageViewModel.cs" Line="26" Column="1" />
+      <File FileName="AmiiboPedia/MainPage.xaml.cs" Line="28" Column="13" />
+      <File FileName="AmiiboPedia.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="AmiiboPedia/Models/Amiibos1.cs" Line="16" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AmiiboPedia" expanded="True">
+            <Node name="AmiiboPedia" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Amiibos1.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="AmiiboPedia.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AmiiboPedia.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07DDB8DE-C21D-411C-B220-880075D54D76" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AmiiboPedia.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

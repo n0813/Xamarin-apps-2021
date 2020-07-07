@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{62D9B277-BB43-41E7-88BF-395FAC003833}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLProyecto01/Data/FriendDatabase.cs">
+    <Files>
+      <File FileName="SQLProyecto01/Data/FriendDatabase.cs" Line="35" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SQLProyecto01" expanded="True">
+            <Node name="SQLProyecto01" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="FriendDatabase.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto01.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto01 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto01.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Clima_Xamarin.Views.WeatherPage">
+
+
+    <ContentPage.Content>
+
+        <StackLayout
+            BackgroundColor="#2980B9">
+
+            <SearchBar Placeholder="Buscar por coordenadas"
+                       SearchCommand="{Binding SearchCommand}"
+                       x:Name="search"
+                       SearchCommandParameter="{Binding Text, Source={x:Reference search}}"
+                       BackgroundColor="White"
+                       Margin="15"/>
+
+            <Frame Margin="25"
+                   BackgroundColor="#3498DB"
+                   VerticalOptions="FillAndExpand">
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height=".2*"></RowDefinition>
+                        <RowDefinition Height=".6*"></RowDefinition>
+                        <RowDefinition Height=".2*"></RowDefinition>
+                        
+                    </Grid.RowDefinitions>
+
+                    <Label Text="{Binding Data.Data[0].city_name}"
+                           TextColor="White"
+                           HorizontalTextAlignment="Center"
+                           FontSize="Title"/>
+
+                    <StackLayout
+                        Grid.Row="1"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center">
+
+                        <StackLayout
+                            Orientation="Horizontal"
+                            HorizontalOptions="Center">
+
+                            <Image Source="{Binding Data.Data[0].Weather.Icon,
+                                        StringFormat='https://www.weatherbit.io/static/img/icons/{0}.png'}"/>
+
+                            <Label Text="{Binding Data.Data[0].Weather.Description}"
+                                   FontSize="Large"
+                                   TextColor="White"
+                                   VerticalOptions="Center"/>
+
+                        </StackLayout>
+
+                        <Label Text="{Binding Data.Data[0].Temp, StringFormat='{0}º'}"
+                               TextColor="White"
+                               FontSize="Header"
+                               />
+
+                    </StackLayout>
+
+
+                    </Grid>
+
+            </Frame>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+
+
+</ContentPage>

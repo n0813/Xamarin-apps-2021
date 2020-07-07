@@ -1,0 +1,13 @@
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/bin/Release/netstandard2.0/CalcularIMC.deps.json
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/bin/Release/netstandard2.0/CalcularIMC.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/bin/Release/netstandard2.0/ref/CalcularIMC.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/bin/Release/netstandard2.0/CalcularIMC.pdb
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/CalcularIMC.AssemblyInfoInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/CalcularIMC.AssemblyInfo.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/CalcularIMC.csproj.CoreCompileInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/XamlC.stamp
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/CalcularIMC.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/ref/CalcularIMC.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/CalcularIMC/CalcularIMC/obj/Release/netstandard2.0/CalcularIMC.pdb

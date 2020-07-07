@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{92D29C57-76D0-481C-B35F-D234FD4BF684}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto02.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto02 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLProyecto02/ViewModels/FriendViewViewModel.cs">
+    <Files>
+      <File FileName="SQLProyecto02/Data/DatabaseQuery.cs" Line="24" Column="1" />
+      <File FileName="SQLProyecto02/ViewModels/FriendViewViewModel.cs" Line="19" Column="37" />
+      <File FileName="SQLProyecto02/Views/MainPage.xaml.cs" Line="20" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SQLProyecto02" expanded="True">
+            <Node name="SQLProyecto02" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="FriendViewViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SQLProyecto02.iOS FirstBuild="True" />
+</Properties>

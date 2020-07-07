@@ -1,0 +1,14 @@
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/bin/Debug/netstandard2.0/AmiiboPedia.deps.json
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/bin/Debug/netstandard2.0/AmiiboPedia.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/bin/Debug/netstandard2.0/ref/AmiiboPedia.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/bin/Debug/netstandard2.0/AmiiboPedia.pdb
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.csprojAssemblyReference.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.AssemblyInfoInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.AssemblyInfo.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.csproj.CoreCompileInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/ref/AmiiboPedia.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/AmiiboPedia/AmiiboPedia/obj/Debug/netstandard2.0/AmiiboPedia.pdb

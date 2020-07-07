@@ -1,0 +1,14 @@
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/bin/Debug/netstandard2.0/Weather.deps.json
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/bin/Debug/netstandard2.0/Weather.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/bin/Debug/netstandard2.0/ref/Weather.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/bin/Debug/netstandard2.0/Weather.pdb
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.csprojAssemblyReference.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.AssemblyInfoInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.AssemblyInfo.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.csproj.CoreCompileInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/ref/Weather.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Weather/Weather/obj/Debug/netstandard2.0/Weather.pdb

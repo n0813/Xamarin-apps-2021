@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ACE6CE71-076C-4E15-9C86-6FE538182401}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clima_Xamarin/Views/WeatherPage.xaml">
+    <Files>
+      <File FileName="Clima_Xamarin/ViewModels/WeatherPageViewModel.cs" Line="18" Column="32" />
+      <File FileName="Clima_Xamarin/Views/WeatherPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Clima_Xamarin" expanded="True">
+            <Node name="Clima_Xamarin" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="WeatherPage.xaml" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Clima__Xamarin.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Clima__Xamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07DDB8DE-C21D-411C-B220-880075D54D76" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

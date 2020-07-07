@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             Visual="Material"
+             xmlns:magic="clr-namespace:MagicGradients;assembly=MagicGradients"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="CalcularIMC.MainPage">
+
+    <Grid>
+
+       <magic:GradientView VerticalOptions="FillAndExpand">
+            <magic:GradientView.GradientSource>
+                <magic:CssGradientSource>
+                    <x:String>
+                        <![CDATA[
+                            radial-gradient(circle at 52% 84%, rgba(194, 194, 194,0.06) 0%, rgba(194, 194, 194,0.06) 18%,transparent 18%, transparent 100%),radial-gradient(circle at 38% 97%, rgba(239, 239, 239,0.06) 0%, rgba(239, 239, 239,0.06) 20%,transparent 20%, transparent 100%),radial-gradient(circle at 86% 17%, rgba(210, 210, 210,0.06) 0%, rgba(210, 210, 210,0.06) 61%,transparent 61%, transparent 100%),radial-gradient(circle at 6% 48%, rgba(91, 91, 91,0.06) 0%, rgba(91, 91, 91,0.06) 27%,transparent 27%, transparent 100%),radial-gradient(circle at 27% 63%, rgba(86, 86, 86,0.06) 0%, rgba(86, 86, 86,0.06) 30%,transparent 30%, transparent 100%),radial-gradient(circle at 2% 91%, rgba(182, 182, 182,0.06) 0%, rgba(182, 182, 182,0.06) 29%,transparent 29%, transparent 100%),linear-gradient(90deg, rgb(203, 171, 120),rgb(227, 87, 5))
+                        ]]>
+                    </x:String>
+                </magic:CssGradientSource>
+            </magic:GradientView.GradientSource>
+        </magic:GradientView>
+
+          <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 WidthRequest="250">
+        <!-- Place new controls here -->
+        <Label Text="Calcula tu IMC"
+               FontAttributes="Bold"
+               FontSize="50"
+               HorizontalTextAlignment="Center"
+               TextColor="White"/>
+
+        <Entry Placeholder="Altura"
+               x:Name="Altura"
+               Keyboard="Numeric"
+               TextColor="White"
+               FontAttributes="Bold"/>
+
+        <Entry Placeholder="Peso"
+               x:Name="Peso"
+               Keyboard="Numeric"
+               TextColor="White"
+               FontAttributes="Bold"/>
+
+        <Entry Placeholder="Tu IMC"
+               IsEnabled="False"
+               x:Name="IMC"
+               TextColor="Black"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"/>
+
+        <Button Text="Calcular"
+                Clicked="btnCalcular"
+                BackgroundColor="DarkOrange"/>
+
+    </StackLayout>
+
+    </Grid>
+
+
+    
+
+</ContentPage>

@@ -1,0 +1,15 @@
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/bin/Debug/netstandard2.0/Clima_Xamarin.deps.json
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/bin/Debug/netstandard2.0/Clima_Xamarin.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/bin/Debug/netstandard2.0/ref/Clima_Xamarin.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/bin/Debug/netstandard2.0/Clima_Xamarin.pdb
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.csprojAssemblyReference.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Views/WeatherPage.xaml.g.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.AssemblyInfoInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.AssemblyInfo.cs
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.csproj.CoreCompileInputs.cache
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/ref/Clima_Xamarin.dll
+/Users/marceline/Documents/DESARROLLO/XAMARIN/Clima_Xamarin/Clima_Xamarin/obj/Debug/netstandard2.0/Clima_Xamarin.pdb

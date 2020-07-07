@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4D5C1C54-5795-4185-A3FC-489FFCCB2FA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/ViewModels/WeatherPageViewModel.cs">
+    <Files>
+      <File FileName="Weather/Models/WeatherData.cs" Line="1" Column="1" />
+      <File FileName="Weather/Views/MainPage.xaml" Line="28" Column="1" />
+      <File FileName="Weather/Views/MainPage.xaml.cs" Line="25" Column="2" />
+      <File FileName="Weather/ViewModels/WeatherPageViewModel.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weather" expanded="True">
+            <Node name="Weather" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="WeatherPageViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Weather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07DDB8DE-C21D-411C-B220-880075D54D76" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Weather.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
