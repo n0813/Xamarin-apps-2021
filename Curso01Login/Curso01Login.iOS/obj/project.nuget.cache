@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNyx4zEcX6InsTWfggCcBB41Mk/yswjTRV+WxTQQ5dgBuZmWb2KExrkKIBeIq6ulMQtbMysX3aR0jhpSYqptTg==",
+  "success": true,
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN TEST/Curso01Login/Curso01Login.iOS/Curso01Login.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/marceline/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/marceline/.nuget/packages/xamarin.forms/4.7.0.1142/xamarin.forms.4.7.0.1142.nupkg.sha512"
+  ],
+  "logs": []
+}
