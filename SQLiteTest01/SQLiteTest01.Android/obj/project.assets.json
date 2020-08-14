@@ -2171,11 +2171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.Android/SQLiteTest01.Android.csproj",
+      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.Android/SQLiteTest01.Android.csproj",
       "projectName": "SQLiteTest01.Android",
-      "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.Android/SQLiteTest01.Android.csproj",
+      "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.Android/SQLiteTest01.Android.csproj",
       "packagesPath": "/Users/marceline/.nuget/packages/",
-      "outputPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.Android/obj/",
+      "outputPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2190,8 +2190,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj": {
-              "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj"
+            "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj": {
+              "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj"
             }
           }
         }

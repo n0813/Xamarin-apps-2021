@@ -1,13 +1,8 @@
-﻿<Properties StartupConfiguration="{A577B583-370C-4819-9AC2-A4A1D5789216}|Default">
-  <MonoDevelop.Ide.ItemProperties.SQLiteTest01.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_R" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteTest01.iOS/Main.cs">
+﻿<Properties StartupConfiguration="{181D19F4-3409-4B05-9381-B82044CA48C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQLiteTest01.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_2_API_R" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteTest01/MainPage.xaml.cs">
     <Files>
-      <File FileName="SQLiteTest01/ContactPage.xaml.cs" Line="52" Column="1" />
-      <File FileName="SQLiteTest01/ContactPage.xaml" Line="16" Column="1" />
-      <File FileName="SQLiteTest01/MainPage.xaml.cs" Line="123" Column="1" />
-      <File FileName="SQLiteTest01/Models/Contact.cs" Line="23" Column="1" />
-      <File FileName="SQLiteTest01/MainPage.xaml" Line="17" Column="49" />
-      <File FileName="SQLiteTest01.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="SQLiteTest01/MainPage.xaml.cs" Line="26" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,25 +11,25 @@
             <Node name="SQLiteTest01" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
               <Node name="ContactPage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="SQLiteTest01.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="SQLiteTest01.Android" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SQLiteTest01.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07DDB8DE-C21D-411C-B220-880075D54D76" />
+  <MonoDevelop.Ide.ItemProperties.SQLiteTest01.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B1710669-B714-4DD8-AAA4-16C0D1BB9F67" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/MainPage.xaml.cs" relfile="SQLiteTest01/MainPage.xaml.cs" line="139" column="1" />
-      <Breakpoint file="/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/MainPage.xaml.cs" relfile="SQLiteTest01/MainPage.xaml.cs" line="138" column="1" />
+      <Breakpoint file="/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/MainPage.xaml.cs" relfile="SQLiteTest01/MainPage.xaml.cs" line="139" column="1" />
+      <Breakpoint file="/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/MainPage.xaml.cs" relfile="SQLiteTest01/MainPage.xaml.cs" line="138" column="1" />
+      <Breakpoint file="/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/MainPage.xaml.cs" relfile="SQLiteTest01/MainPage.xaml.cs" line="49" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

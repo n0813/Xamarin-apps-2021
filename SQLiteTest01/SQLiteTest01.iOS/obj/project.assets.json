@@ -1444,11 +1444,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
+      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
       "projectName": "SQLiteTest01.iOS",
-      "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
+      "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
       "packagesPath": "/Users/marceline/.nuget/packages/",
-      "outputPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.iOS/obj/",
+      "outputPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1463,8 +1463,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj": {
-              "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj"
+            "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj": {
+              "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj"
             }
           }
         }

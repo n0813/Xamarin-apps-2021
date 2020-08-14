@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "viLlGcolbf0nvCHqx+8VMAPk72aonZrpN7jQF0uXDS8vhAMPqfHrsZX3k84Y154wPG1/7z5vGYaQf8N19XAFkw==",
+  "dgSpecHash": "Cyxyn1ghYBeXKs8vm9uYHtNVDoqesDUh2783PO4W25BET9F1xm1rXOC8wk0D+i4Hx2sEyT+hy5niF8gExO7pAg==",
   "success": true,
-  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
   "expectedPackageFiles": [
     "/Users/marceline/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/marceline/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

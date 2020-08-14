@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj": {}
+    "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj": {}
   },
   "projects": {
-    "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj": {
+    "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
+        "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
         "projectName": "SQLProyecto01.iOS",
-        "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
+        "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
         "packagesPath": "/Users/marceline/.nuget/packages/",
-        "outputPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/obj/",
+        "outputPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
-                "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj"
+              "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
+                "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
+    "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
+        "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
         "projectName": "SQLProyecto01",
-        "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
+        "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj",
         "packagesPath": "/Users/marceline/.nuget/packages/",
-        "outputPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/obj/",
+        "outputPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marceline/.config/NuGet/NuGet.Config"
@@ -124,7 +124,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

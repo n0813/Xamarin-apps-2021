@@ -2209,11 +2209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
+      "projectUniqueName": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
       "projectName": "SQLProyecto01.Android",
-      "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
+      "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
       "packagesPath": "/Users/marceline/.nuget/packages/",
-      "outputPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.Android/obj/",
+      "outputPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2228,8 +2228,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
-              "projectPath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj"
+            "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj": {
+              "projectPath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01/SQLProyecto01.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zv9FA8ITk6nVhHA2fTtK1bd/7flEoOayX6sUyYiZKM+rWDjhAGScQqFV2SFPqaVy5h9mgoQ8TWoSNGEpaMZmNA==",
+  "dgSpecHash": "hH4LIA7tcgWVnTx03bBKWsvkOE4QZcCLqtOSKIJHRaV3fKV3ww6CO8WuP4GMMCM7k04ZRjZRQGZCOyWGqKTqDw==",
   "success": true,
-  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01.iOS/SQLiteTest01.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/marceline/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/marceline/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

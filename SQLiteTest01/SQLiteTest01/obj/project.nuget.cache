@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c59lDXHPBXFI6E80P2iqYCKbn8tU5Mcr4c1yEZSfYwDabtW0MILX++YfulsJtHrUvHC7dU4daZNWOEpeZZSLHA==",
+  "dgSpecHash": "qSe6MU1JWcbBXChlaigy9uxRH493aJdlzTieBrG+n7hTWCn3gdZ4pFCZVjJRIOqy3R8QtNpIGwhm3HpCxoPzhA==",
   "success": true,
-  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj",
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLiteTest01/SQLiteTest01/SQLiteTest01.csproj",
   "expectedPackageFiles": [
     "/Users/marceline/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/marceline/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

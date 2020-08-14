@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7fLHTDrlxVCK9A34n/RlQFhJhgDFc4ytSqWYPMm4IBf3iHViuzmKK6VD9ajlnUirG0Hp/ZwO0Iaau9XKEOr8qA==",
+  "dgSpecHash": "tRMSEDIRigFDGn/yQKEYYU36osEsog3HN5FxdLdEtqw7Pil0mAJPmgDnJoOrjxFTFWKhULTdirLw2C0fB9n6pw==",
   "success": true,
-  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.iOS/SQLProyecto01.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/marceline/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/marceline/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{62D9B277-BB43-41E7-88BF-395FAC003833}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SQLProyecto01/Data/FriendDatabase.cs">
-    <Files>
-      <File FileName="SQLProyecto01/Data/FriendDatabase.cs" Line="35" Column="52" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -13,7 +10,9 @@
               </Node>
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
           </Node>

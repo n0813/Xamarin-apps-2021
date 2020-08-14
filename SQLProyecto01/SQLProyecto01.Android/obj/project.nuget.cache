@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K8NU/VJLdaQTIMIMBMFOsADShBKCZ3hkCQVqNKTyt+5y4AMd6kSGpJOpOADY2rBbill0Pw9DTsE+9FD8CMiW/A==",
+  "dgSpecHash": "Q3Mq1s0STImhwfQSsjjWD2yjM/0MyIam5cP8DGPiYHDSX5w5ZFVyFup4J7LIV4iTAZmzTmUkpT4Kmpnjc911Cw==",
   "success": true,
-  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/XAMARIN/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
+  "projectFilePath": "/Users/marceline/Documents/DESARROLLO/Xamarin/SQLProyecto01/SQLProyecto01.Android/SQLProyecto01.Android.csproj",
   "expectedPackageFiles": [
     "/Users/marceline/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/marceline/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
