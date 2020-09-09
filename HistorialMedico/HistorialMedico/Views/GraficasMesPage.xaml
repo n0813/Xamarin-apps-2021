@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Visual="Material"
+             x:Class="HistorialMedico.Views.GraficasMesPage">
+
+
+    <StackLayout Margin="20,10">
+         <ScrollView>
+              <StackLayout>
+                    <DatePicker  x:Name="fechaInicio"
+                                 TextColor="#222222"
+                                 FontAttributes="Bold"
+                                 DateSelected="fechaInicio_DateSelected"
+                                 BackgroundColor="#f5f8fa" Format="MMMM"/>
+
+                    <!--<Picker x:Name="SeleccionMes"
+                            TextColor="#222222"
+                            FontAttributes="Bold"
+                            BackgroundColor="#f5f8fa" /> -->
+
+                    <Button Text="Graficar" Clicked="Button_Clicked"
+                            x:Name="Graficar"
+                            BackgroundColor="#fd5c63" TextColor="White"
+                            Margin="0,10,0,10" />
+                     <Button Text="Detalle Mes" Clicked="Detalle_Clicked"
+                            x:Name="Detalle"
+                            BackgroundColor="#0099e5" TextColor="White"
+                            Margin="0,0,0,30" />
+
+         
+                 
+                      <Label Text="Glucosa" FontSize="Large" HorizontalTextAlignment="Center"
+                             FontAttributes="Bold"
+                             x:Name="tituloGlucosa"
+                             TextColor="#fd5c63"/>
+                      <local:ChartView HeightRequest="240"
+                                       x:Name="Grafica"/>
+
+                      <Label Text="Presión" FontSize="Large" HorizontalTextAlignment="Center" Margin="0,30"
+                             TextColor="#fd5c63"
+                             x:Name="tituloPresion"
+                             FontAttributes="Bold"/>
+                      <local:ChartView HeightRequest="240" x:Name="Presion"/>
+
+              </StackLayout>
+          </ScrollView>
+
+
+    </StackLayout>
+
+</ContentPage>

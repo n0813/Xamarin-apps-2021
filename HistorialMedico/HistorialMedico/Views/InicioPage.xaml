@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:HistorialMedico.Views"
+    x:Class="HistorialMedico.Views.InicioPage" Title="Glucosa y Presión">
+
+
+
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Text="Agregar"
+                     Clicked="ToolbarItem_Clicked"/>
+
+
+        
+    </TabbedPage.ToolbarItems>
+
+
+    <local:HistorialPage Title="Historial" IconImageSource="baseline_history_black_18dp.png"/>
+    <local:GraficasPage Title="Semana" IconImageSource="baseline_bar_chart_black_18dp.png"/>
+    <local:GraficasMesPage Title="Mes" IconImageSource="baseline_event_black_18dp.png"/>
+   <!-- <local:ExportarPage Title="Config."/> -->
+
+   
+
+</TabbedPage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="HistorialMedico.MainPage"
+             Visual="Material"
+             Title="Agregar">
+
+
+        <ContentPage.ToolbarItems>
+
+            <ToolbarItem Text="Guardar"
+                            Clicked="ToolbarItem_Clicked">
+
+            </ToolbarItem>
+
+        </ContentPage.ToolbarItems>
+
+
+    <StackLayout VerticalOptions="StartAndExpand"
+                 Margin="20,20,20,0">
+        <!-- Place new controls here -->
+        
+     <ScrollView>
+         <StackLayout>
+            <DatePicker x:Name="fechaPicker"
+                        TextColor="#222222"
+                        BackgroundColor="#f5f8fa" />
+
+            <Entry Placeholder="Ingresar Presion (Ejemplo 120.80 = 120/80)"
+                   TextColor="#222222"
+                   BackgroundColor="#f5f8fa"
+                   x:Name="presionEntry" Keyboard="Numeric"/>
+
+            <Entry  Placeholder="Ingresar Glucosa (Ejemplo 90)"
+                    TextColor="#222222"
+                    BackgroundColor="#f5f8fa"
+                    x:Name="glucosaEntry" Keyboard="Numeric"/>
+
+            <Editor Placeholder="Ingrese un comentario extra"
+                    TextColor="#222222"
+                    BackgroundColor="#f5f8fa"
+                   x:Name="comentarioEntry" HeightRequest="200"
+                    MaxLength="150"/>
+         </StackLayout>
+     </ScrollView>
+
+
+
+    </StackLayout>
+</ContentPage>

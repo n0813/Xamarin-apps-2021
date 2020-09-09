@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Visual="Material"
+             x:Class="HistorialMedico.Views.GraficasPage">
+
+
+    <StackLayout Margin="20,10">
+         <ScrollView>
+              <StackLayout>
+                    <DatePicker  x:Name="fechaInicio"
+                                 DateSelected="fechaInicio_DateSelected" 
+                                 BackgroundColor="#f5f8fa" Format="dddd, dd MMMM yyyy"/>
+                    <DatePicker x:Name="fechaFin"
+                                BackgroundColor="#f5f8fa" Format="dddd, dd MMMM yyyy"/>
+
+                    <Button Text="Graficar" Clicked="Button_Clicked"
+                            x:Name="Graficar"
+                            BackgroundColor="#fd5c63" TextColor="White"
+                            Margin="0,0,0,50" />
+
+         
+                 
+                      <Label Text="Glucosa" FontSize="Large" HorizontalTextAlignment="Center"
+                             FontAttributes="Bold"
+                             x:Name="tituloGlucosa"
+                             TextColor="#fd5c63"/>
+                      <local:ChartView HeightRequest="240" 
+                                       x:Name="Grafica"/>
+
+                      <Label Text="Presión" FontSize="Large" HorizontalTextAlignment="Center" Margin="0,30"
+                             TextColor="#fd5c63"
+                             x:Name="tituloPresion"
+                             FontAttributes="Bold"/>
+                      <local:ChartView HeightRequest="240"
+                                       x:Name="Presion"/>
+
+              </StackLayout>
+          </ScrollView>
+
+
+    </StackLayout>
+
+</ContentPage>
